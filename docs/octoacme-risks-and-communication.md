@@ -9,7 +9,7 @@ Maintain a simple table with:
 - Description
 - Impact (High/Med/Low)
 - Likelihood (High/Med/Low)
-- Owner
+- Owner (assigned to the appropriate role: PM, Security Lead, DevOps Engineer, etc.)
 - Mitigation plan
 - Status
 
@@ -39,4 +39,6 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify Security Lead and Security on-call immediately
+- For deployment incidents, notify DevOps Engineer and follow the incident playbook in the [Release & Deployment Guide](./octoacme-release-and-deployment.md)
+- For user-facing issues, loop in Support/Customer Success to manage user communication
