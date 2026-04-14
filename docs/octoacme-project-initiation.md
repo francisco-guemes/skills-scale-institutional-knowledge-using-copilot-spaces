@@ -17,7 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate) — including UX/UI Designer, Technical Writer, DevOps Engineer, Security Lead, and Support/Customer Success as applicable
 
 ## Project One-pager Template
 - Project name:
@@ -32,6 +32,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Team roles confirmed, including UX/UI Designer, DevOps Engineer, Technical Writer, Security Lead, and Support/Customer Success as needed
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

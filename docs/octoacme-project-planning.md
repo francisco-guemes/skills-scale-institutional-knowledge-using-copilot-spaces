@@ -9,12 +9,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
+1. Kickoff meeting with stakeholders and delivery team (all roles)
+2. Create prioritized backlog with acceptance criteria (Product Manager + Developers)
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
+4. Define Definition of Done (DoD), including design sign-off (UX/UI Designer) and documentation (Technical Writer)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Confirm security and compliance requirements (Security Lead)
+8. Plan deployment strategy and environment needs (DevOps Engineer)
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +38,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
-- [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Project kickoff held (all roles)
+- [ ] Backlog prioritized and estimated (Product Manager + Developers)
+- [ ] Release timeline and milestones agreed (Project Manager)
+- [ ] Definition of Done documented (Project Manager + QA + UX/UI Designer + Technical Writer)
+- [ ] Initial test plan / QA approach drafted (QA)
+- [ ] UX/UI design brief or wireframes scoped (UX/UI Designer)
+- [ ] Security requirements and threat model reviewed (Security Lead)
+- [ ] Infrastructure and environment plan confirmed (DevOps Engineer)
+- [ ] Documentation plan outlined (Technical Writer)
